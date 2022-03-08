@@ -1,0 +1,1 @@
+it is inspire by spotify music streaming app.
